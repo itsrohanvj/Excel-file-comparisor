@@ -23,7 +23,7 @@ try:
     print(l1)
     print(l2)
     for i in range(0, min(a, b)):
-        if l1[i][:-5] in str(l2):
+        if l1[i] in str(l2):
             continue
         else:
             print("absent", l1[i])
