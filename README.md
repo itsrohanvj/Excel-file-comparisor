@@ -1,5 +1,5 @@
 # Excel-file-comparisor
-Compare two columns in different excel file.
+Compare two columns in two different excel files.
 Get the output in a seperate excel file.
 The output file consists the values which are not present in file 1.
 Please configure the column names/file names according to your purpose
