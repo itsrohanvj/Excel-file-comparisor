@@ -1,3 +1,6 @@
+
+[![HitCount](http://hits.dwyl.com/itsrohanvj/itsrohanvj/Excel-file-comparisor.svg)](http://hits.dwyl.com/itsrohanvj/itsrohanvj/Excel-file-comparisor)
+
 # Excel-file-comparisor
 Compare two columns in two different excel files.
 Get the output in a seperate excel file.
